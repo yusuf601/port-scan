@@ -1,3 +1,5 @@
-flake8
+requests
 tabulate
 colorama
+flake8
+pytest
