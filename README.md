@@ -28,7 +28,7 @@ git clone https://github.com/yusuf601/port-scan.git
 ```bash
 python3 scan_port.py
 ```
-##Display
+## Display
 ![Tampilan 1](images/scan_port1.png)
 ![Tampilan2](images/scan_port2.png)
 
