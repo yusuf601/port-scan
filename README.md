@@ -16,6 +16,19 @@ Alat Python sederhana untuk mencari informasi geografis dari sebuah alamat IP at
 * Library `colorama` (`pip install colorama`)
 
 ## Instalasi
-1. **Instal Library:**
+1.clone repository
+```bash
+git clone https://github.com/yusuf601/port-scan.git
+```
+2. **Instal Library:**
    ```bash
    pip install requests tabulate colorama
+3.run
+```bash
+python3 scan_port.py
+```
+##Display
+![Tampilan 1](images/scan_port1)
+![Tampilan2](images/scan_port2)
+
+
