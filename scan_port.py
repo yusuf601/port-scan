@@ -3,6 +3,29 @@ import requests
 import json
 from tabulate import tabulate
 from colorama import Fore, Style, init
+print(r"""
+                                                                                                        
+                                                                                                        
+YYYYYYY       YYYYYYYUUUUUUUU     UUUUUUUU   SSSSSSSSSSSSSSS UUUUUUUU     UUUUUUUUFFFFFFFFFFFFFFFFFFFFFF
+Y:::::Y       Y:::::YU::::::U     U::::::U SS:::::::::::::::SU::::::U     U::::::UF::::::::::::::::::::F
+Y:::::Y       Y:::::YU::::::U     U::::::US:::::SSSSSS::::::SU::::::U     U::::::UF::::::::::::::::::::F
+Y::::::Y     Y::::::YUU:::::U     U:::::UUS:::::S     SSSSSSSUU:::::U     U:::::UUFF::::::FFFFFFFFF::::F
+YYY:::::Y   Y:::::YYY U:::::U     U:::::U S:::::S             U:::::U     U:::::U   F:::::F       FFFFFF
+   Y:::::Y Y:::::Y    U:::::D     D:::::U S:::::S             U:::::D     D:::::U   F:::::F             
+    Y:::::Y:::::Y     U:::::D     D:::::U  S::::SSSS          U:::::D     D:::::U   F::::::FFFFFFFFFF   
+     Y:::::::::Y      U:::::D     D:::::U   SS::::::SSSSS     U:::::D     D:::::U   F:::::::::::::::F   
+      Y:::::::Y       U:::::D     D:::::U     SSS::::::::SS   U:::::D     D:::::U   F:::::::::::::::F   
+       Y:::::Y        U:::::D     D:::::U        SSSSSS::::S  U:::::D     D:::::U   F::::::FFFFFFFFFF   
+       Y:::::Y        U:::::D     D:::::U             S:::::S U:::::D     D:::::U   F:::::F             
+       Y:::::Y        U::::::U   U::::::U             S:::::S U::::::U   U::::::U   F:::::F             
+       Y:::::Y        U:::::::UUU:::::::U SSSSSSS     S:::::S U:::::::UUU:::::::U FF:::::::FF           
+    YYYY:::::YYYY      UU:::::::::::::UU  S::::::SSSSSS:::::S  UU:::::::::::::UU  F::::::::FF           
+    Y:::::::::::Y        UU:::::::::UU    S:::::::::::::::SS     UU:::::::::UU    F::::::::FF           
+    YYYYYYYYYYYYY          UUUUUUUUU       SSSSSSSSSSSSSSS         UUUUUUUUU      FFFFFFFFFFF   """)
+
+print("\n****************************************************************")
+print("\n* Copyright of Muh Yusuf, 2024                              *")
+print("\n****************************************************************")
 
 # Initialize colorama for colored output
 init(autoreset=True)
